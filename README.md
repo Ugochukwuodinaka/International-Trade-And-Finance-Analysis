@@ -1,1 +1,1 @@
-# International-Trade-And-Finance-Analysis
+# International Trade And Finance Analysis
