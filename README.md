@@ -1,5 +1,5 @@
 # International Trade And Finance Analysis
-![](images/World_Energy_Consumption_Photo.jpg)
+![](images/International_Trade_Finance_Analysis_Photo.jpg)
 <br />
 
 
