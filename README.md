@@ -26,19 +26,19 @@ The analysis will involve:
 
 ### Expected Outcomes
 The project aims to:
--1. __Top 10 Countries Rankings:__
+- __Top 10 Countries Rankings:__
     - Show top 10 countries by Exports & Imports HDI Ranking.
     - Show top 10 countries by Trade Dependency.
     - Show top 10 countries by Investment Attractiveness.
     - Show top 10 countries by Aid Dependency.
     - Show top 10 countries by Remittance Contribution to GDP.
     - Show top 10 countries by Private Investment Efficiency.
--2. __Trend Analysis:__
+- __Trend Analysis:__
     - Trade Dependency Trend by Year (% of GDP).
     - Investment Attractiveness Trend by Year (% of GDP).
     - Private Investment Efficiency Trend by Year (% of GDP).
--3. __Human Development Index Correlation:__
+- __Human Development Index Correlation:__
     - Correlation between countries’ HDI ranking and trade and finance indicators.
--4. __Policy Recommendations:__
+- __Policy Recommendations:__
     - Full report with insights and policy recommendations to improve trade efficiency, economic performance and financial stability.
     - Contribute to the academic and policy discussion on global economic integration.
