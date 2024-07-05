@@ -40,5 +40,4 @@ The project aims to:
 - __Human Development Index Correlation:__
     - Correlation between countries’ HDI ranking and trade and finance indicators.
 - __Policy Recommendations:__
-    - Full report with insights and policy recommendations to improve trade efficiency, economic performance and financial stability.
-    - Contribute to the academic and policy discussion on global economic integration.
+    - Insights and policy recommendations to improve trade efficiency, economic performance and financial stability.
