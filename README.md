@@ -9,12 +9,14 @@
 ### Introduction:
 The “International Trade and Finance Analysis” project will look into global trade and financial flows using UNDP data. This will focus on key indicators to understand country to country economic relationships.
 
+
 ## Objectives:
 The primary objectives of this project are to:
 - __Top Performers:__ Analyze and rank top 10 countries based on Exports & Imports and HDI ranking, trade dependency, investment attractiveness, aid dependency, remittance to GDP and private investment efficiency.
 - __Trend:__ Show trend of trade dependency, investment attractiveness and private investment efficiency over time as a percentage of GDP.
 - __Correlation:__ Correlate HDI with trade and finance indicators.
 - __Policy and Strategy:__ Provide policy recommendations to improve economic performance, trade and financial stability.
+
 
 ### Methodology:
 The analysis will involve:
@@ -23,6 +25,7 @@ The analysis will involve:
 - Ranking countries based on the selected indicators.
 - Comparing countries and regions based on performance.
 - Visualizing the data through graphs and chart to draw insights.
+
 
 ### Expected Outcomes
 The project aims to:
