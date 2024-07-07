@@ -55,4 +55,4 @@ This analysis uses the UNDP’s data for the ‘Trade and Finance flows’ dimen
 - __Private Capital Flows (% of GDP):__ Movement of private capital in and out of the country, including investments in stocks, bonds and other financial assets, as a percentage of GDP, to show private investors’ confidence in the country’s economy.
 - __Remittances, Inflows (% of GDP):__ Total value of money sent back home by nationals working abroad as a percentage of GDP, which is a major source of income for many developing countries and household income and economic stability.
 
-This data is for 2019, which may be the latest data published by UNDP. The dataset used for this analysis project was sourced from Kaggle.com. [Here](https://www.kaggle.com/datasets/elmartini/international-trade-and-finance-data) is a link to the dataset.
+This data is for 2019, which may be the latest data published by UNDP. The dataset used for this analysis project was sourced from Kaggle.com. [Here](https://www.kaggle.com/datasets/elmartini/international-trade-and-finance-data) is a link to the dataset. The dataset used for this anaysis can also be downloaded directly from here.
