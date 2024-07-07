@@ -44,3 +44,13 @@ The project aims to:
     - Correlation between countries’ HDI ranking and trade and finance indicators.
 - __Policy Recommendations:__
     - Insights and policy recommendations to improve trade efficiency, economic performance and financial stability.
+<br />
+
+### About The Dataset
+This analysis uses the UNDP’s data for the ‘Trade and Finance flows’ dimension. The data came with 5 tables which are: Exports and Imports (% of GDP), Foreign Direct Investment, Net Inflows (% of GDP), Net Official Development Assistance Received (% of GNI), Private Capital Flows (% of GDP), and Remittances, Inflows (% of GDP). The main data indicators looked at are:
+
+- __Exports and Imports (% of GDP):__ Value of goods and services a country exports and imports as a percentage of its GDP, to show trade openness and economic integration with the global market.
+- __Foreign Direct Investment, Net Inflows (% of GDP):__ Net inflows of investment to acquire a lasting interest or significant influence over a company’s management in another country, to show economic globalization and confidence in a country’s economy.
+- __Net Official Development Assistance Received (% of GNI):__ Net official aid provided by donor countries to promote economic development and welfare in recipient countries, as a percentage of Gross National Income (GNI), to show support and dependency of developing countries on foreign aid.
+- __Private Capital Flows (% of GDP):__ Movement of private capital in and out of the country, including investments in stocks, bonds and other financial assets, as a percentage of GDP, to show private investors’ confidence in the country’s economy.
+- __Remittances, Inflows (% of GDP):__ Total value of money sent back home by nationals working abroad as a percentage of GDP, which is a major source of income for many developing countries and household income and economic stability.
