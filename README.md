@@ -121,3 +121,10 @@ From the analysis, i made the following Key findings below:
 - Remittance Contribution to GDP (%): __3.89__
 <br />
 <br />
+
+- <img src="images/Top_10_Coiuntries_by_HDI_Ranking.png" width="300">
+
+- **Top 10 Countries By Human Development Index (HDI) Ranking:**
+- The top 10 countries that rank high in HDI are Norway, Ireland, Switzerland, Hong Kong (China SAR), Iceland, Germany, Sweden, Australia, the Netherlands and Denmark. Norway is number one because of its strong economy, high standard of living and good healthcare and education. Ireland and Switzerland are second because of high income and advanced social systems. Hong Kong and Iceland are tied at 4th because they have the same level of human development despite different economic contexts. 8 out of the 10 are European, so Europe is top in human development. They have different economic models, from Norway’s resource based economy to Switzerland’s finance based economy but all have high scores in life expectancy, education and income.
+  
+- These top countries can be a model for policy making, highlighting the importance of healthcare, education and social security in human development. High HDI means stable investment climate, opportunities in tech, finance and healthcare. The correlation between high HDI and sustainable economy means sustainable development policies are valuable. Knowing the factors behind high HDI can help other countries identify and develop their competitive advantages in the global market. High HDI means economic and social stability, important for long term planning for businesses and governments, so investing in human development for overall economic success.
