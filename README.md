@@ -117,7 +117,7 @@ From the analysis, i made the following Key findings below:
 - Aid Dependency (%): __4.50__
 - Investment Attractiveness (%): __6.73__
 - Private Investment Efficiency: __-2.83__
-- Trade Dependency (5): __79.30__
+- Trade Dependency (%): __79.30__
 - Remittance Contribution to GDP (%): __3.89__
 <br />
 <br />
