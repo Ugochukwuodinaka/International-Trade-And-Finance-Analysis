@@ -136,4 +136,56 @@ From the analysis, i made the following Key findings below:
 - **Top 10 Countries By Trade Dependency:**
 - Here are the top 10 countries by trade dependency, measured by the sum of exports and imports as a percentage of GDP. Small open economies with high trade activity dominate the list. Hong Kong, China (SAR) is top with 5,067% of GDP, followed by Singapore 4,916% and Luxembourg 4,629%. These are major global trade hubs, with strategic locations and well developed infrastructure for international trade. Malta, Ireland and Seychelles also have high trade dependency, they rely on trade for their economic growth. Slovakia, Viet Nam, Malaysia and Belgium complete the list with trade dependency above 2,000% of GDP, they are deeply integrated in global supply chains and markets. 
 
-- High trade dependency in these countries means international trade plays a big role in their economies. For policymakers, understanding global trade is key to economic growth and stability. These countries’ success is often linked to attracting foreign investments, competitive export industries and good trade policies. But high dependency also makes them vulnerable to global economic downturns, trade disputes and changes in international trade policies. Diversifying their economies and domestic markets can help mitigate these risks. For investors, these trade dependent countries offers many opportunities especially in sectors like logistics, manufacturing and finance which benefits from high trade volumes. Focus on trade infrastructure and policies can make them even more attractive as global trade hubs. 
+- High trade dependency in these countries means international trade plays a big role in their economies. For policymakers, understanding global trade is key to economic growth and stability. These countries’ success is often linked to attracting foreign investments, competitive export industries and good trade policies. But high dependency also makes them vulnerable to global economic downturns, trade disputes and changes in international trade policies. Diversifying their economies and domestic markets can help mitigate these risks. For investors, these trade dependent countries offers many opportunities especially in sectors like logistics, manufacturing and finance which benefits from high trade volumes. Focus on trade infrastructure and policies can make them even more attractive as global trade hubs.
+<br />
+<br />
+
+- <img src="images/Top_10_Countries_by_Investment_Attractiveness.png" width="300">
+
+- **Top 10 Countries By Investment Attractiveness:**
+- The top 10 countries by investment attractiveness, by net FDI inflows as a % of GDP are: Liechtenstein 5,389%, Cyprus 1,286%, Malta 757%, Hong Kong, China (SAR) 426%, Liberia 396%, Singapore 289%, Ireland 272%, Luxembourg 256%, Netherlands 243%, Mozambique 231%. They all have good tax regimes, great locations and business friendly environments.
+
+- High FDI ratios mean these countries are hot for global investors. Liechtenstein is number one because of its tax regime. Cyprus and Malta because of their location and tax breaks. Hong Kong and Singapore because they are financial hubs. Liberia and Mozambique because of their growth potential. Keeping investor friendly environments and stable politics is key to sustaining FDI and investment opportunities in finance, real estate and emerging industries.
+<br />
+<br />
+
+- <img src="images/Top_10_Countries_by_Aid_Dependency.png" width="300">
+
+- **Top 10 Countries By Aid Dependency:**
+- The top 10 countries by aid dependency, as measured by net official development assistance received as a percentage of Gross National Income (GNI), are heavily reliant on aid for their economies. Tuvalu is at the top with 492.3% of GNI, followed by Micronesia with 374.1% and the Solomon Islands with 354.1%. Liberia and the Marshall Islands are also high on the list with 323.6% and 315.3% respectively. Burundi, Kiribati, Malawi, Nauru and Afghanistan complete the list with aid dependency above 200%. These numbers mean aid is a lifeline for these countries’ economies and development efforts.
+
+- High aid dependency ratios show how important foreign aid is for these countries’ economies, often because of limited domestic resources and economic challenges. For example Tuvalu’s aid dependency is because of its small size and no natural resources. Liberia and Afghanistan depend heavily on aid because of prolonged conflicts and political instability. While aid is necessary for immediate economic support and development projects, it also means we need to think of strategies to reduce dependency over time. Strengthening local economies, good governance and sustainable development are key to reducing aid dependency. 
+<br />
+<br />
+
+- <img src="images/Top_10_Countries_by_Remittance_Contribution_to_GDP.png" width="300">
+
+- **Top 10 Countries By Remittance Contribution to GDP:**
+- In this analysis, we have the top 10 countries by remittance to GDP. Lesotho leads the pack with remittances at 585.4% of GDP, followed by Tajikistan at 369.6%, Kyrgyzstan at 306.6%, Tonga at 304.2%, Haiti at 302.5%, Nepal at 252.4%, Samoa at 243.8%, Moldova at 232.4%, El Salvador at 225.5% and Honduras at 214.5%. These numbers show how big a deal remittances are for these countries, often bigger than other sources of income.
+
+- High remittance numbers means these countries are dependent on their expats for economic survival. For Lesotho and Tajikistan, remittances are a big chunk of their GDP, meaning limited domestic economic opportunities and the diaspora is crucial. While remittances can be a steady source of income and improve living standards, it also makes these economies vulnerable to global economic shifts and changes in migration policies. 
+<br />
+<br />
+
+- <img src="images/Top_10_Countries_by_Private_Investment_Efficiency.png" width="300">
+
+- **Top 10 Countries By Private Investment Effciency:**
+- The top 10 countries by private investment efficiency (private capital flows as a percentage of GDP) are Timor-Leste with 780.9%, Kuwait with 249.3%, Norway with 108.0%. The Netherlands and Switzerland with 92.0% and 90.8% respectively. Hong Kong, China (SAR), Greece, Qatar, Germany and Singapore also make the list with private capital flows ranging from 80.0% to 57.2% of GDP. These high numbers mean these countries are good at attracting and managing private investments.
+
+- Timor-Leste’s high private capital flows are due to its special investment dynamics, possibly because of its oil and gas revenues. Kuwait’s high number is because of its strong financial sector and oil wealth. Norway, the Netherlands and Switzerland have stable high income economies with deep financial markets. Hong Kong and Singapore are financial hubs that attract big private investments because of their location and business friendly environment. Greece and Qatar are countries with strong investment activities despite different economic structures. These countries have policies that create good investment climate, low taxes, political stability and strong regulatory framework.
+<br />
+<br />
+
+- <img src="images/Trade_Dependency_Trend_by_Year_(%25_of_GDP).png" width="500">
+
+- **Trade Dependency Trend By Year (% of GDP):**
+- The trade dependency trend, measured by the sum of exports and imports as a percentage of GDP, shows an upward slope from 1990 to 2012 and then fluctuations and a decline in 2019. From 10,541% of GDP in 1990 to 12,730% in 1995, 14,283% in 2000 and 16,890% in 2012, trade dependency increased steadily. From 2013 onwards, the values show minor fluctuations with small decreases, 15,533% in 2016 and then slightly up to 15,816% in 2017 and then down to 13,657% in 2019. This trend shows increasing global trade integration until 2012 and then a moderate decline, possibly due to economic downturns, trade policy changes and global market adjustments.
+
+- The steady rise in trade dependency from 1990 to 2012 shows the period of globalization and economic integration where countries were more dependent on international trade. The peak in 2012 is during the post global financial crisis recovery period, so it’s a strong trade rebound. The decline from 2013 to 2019 shows the period of stabilization and potential shift in global trade dynamics, including rising protectionism, changes in trade agreements and economic uncertainty. A good knowledge of these trends is key to developing strategies to enhance trade competitiveness and manage risks of global market volatility.
+<br />
+<br />
+
+- <img src="images/Investment_Attractiveness_Trend_by_Year_(%25_of_GDP).png" width="500">
+
+- **Investment Attractiveness Trend By Year (% of GDP):**
+- The
