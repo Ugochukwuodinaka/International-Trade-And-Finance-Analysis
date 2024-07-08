@@ -102,3 +102,12 @@ Sql Query Screenshot                                                            
 You can preview the SQL query file [here](International_Trade_%26%20_Finance_Analysis_Project.sql)
 <br />
 <br />
+
+## Visualization in Tableau:
+#### Report View 1
+![](images/INTERNATIONAL%20TRADE%20%26%20FINANCE%20ANALYSIS%201.png)
+
+#### Report View 2
+![](images/INTERNATIONAL%20TRADE%20%26%20FINANCE%20ANALYSIS%202.png)
+<br />
+<br />
