@@ -188,4 +188,35 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Investment_Attractiveness_Trend_by_Year_(%25_of_GDP).png" width="500">
 
 - **Investment Attractiveness Trend By Year (% of GDP):**
-- The
+- The investment attractiveness trend, measured by net foreign direct investment inflows as a percentage of GDP, is all over the place from 1990 to 2019. 225% in 1990, 500% in 1995, 1,551% in 2000, 1,233% in 2005, 1,816% in 2010, 1,897% in 2012, 983% in 2013, fluctuations in 2014-2016, 2,367% in 2015, 613% in 2018 and 409% in 2019.
+
+- The big jump from 1990 to 2000 means globalization and investor confidence were rising, possibly due to market liberalization and economic reforms in many countries. The peak in 2012 means post global financial crisis recovery where investment was robust. The fluctuations afterwards means varying global economic conditions, policy changes and market sentiments. The big drop from 2015 onwards means economic uncertainties, changes in investment climate or more competition for foreign direct investment. 
+<br />
+<br />
+
+- <img src="images/Investment_Attractiveness_Trend_by_Year_(%25_of_GDP).png" width="500">
+
+- **Investment Attractiveness Trend By Year (% of GDP):**
+- This analysis is on private investment efficiency as measured by private capital flows as % of GDP has been negative since 1990. It started at -86% in 1990, worsened to -234% in 1995 and -230% in 2000. It continued to decline and reached -1,236% in 2012. After that, the negative values started to improve but remained huge, -780% in 2013 and -305% in 2019.
+
+- The persistent negative capital flows mean huge capital outflows or inefficiencies in retaining private investments over the years. The peak negative value in 2012 may have been due to severe economic crisis or challenges, after which there was some recovery but still in negative territory. To improve private investment efficiency, there is need to address the factors driving the capital outflows, economic instability, poor investment climate or unfavorable regulatory conditions. Strengthening economic policies, improving investor confidence and creating a better business environment are the key to reverse this trend and attract sustainable private investments.
+<br />
+<br />
+
+## Tableau Dashboard Visualization:
+You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/INTERNATIONALTRADEANDFINANCEANALYSIS_17037344516580/Dashboard1?publish=yes)
+<br />
+<br />
+<br />
+
+## Recommendations for Enhancing Trade and Investment Efficiency
+- __Stability:__ Macroeconomic policies to control inflation, public debt and economic growth.
+- __Investment Climate:__ Streamline regulations, reduce bureaucracy and tax incentives for investors.
+- __Diversify Trade:__ Mitigate risks by diversifying trade partners, emerging markets and new trade agreements.
+- __Domestic Investment:__ Support SMEs, innovation and start-ups.
+- __Human Capital:__ Invest in education, healthcare and social services to make the country attractive to investors.
+- __Financial Infrastructure:__ Robust financial systems, banking regulations and financial transparency for efficient capital allocation and risk management.
+- __Sustainable Development:__ Long term investments by promoting green technologies, renewable energy and environmentally friendly business practices.
+- __Socio-Political Stability:__ Political stability and governance by reducing corruption, transparent governance and social order.
+- __Technology and Innovation:__ Invest in technology and innovation by supporting R&D and technology parks and innovation hubs.
+- __Infrastructure:__ Focus on infrastructure (transportation, communication and utilities) to reduce operational costs and improve business efficiency.
