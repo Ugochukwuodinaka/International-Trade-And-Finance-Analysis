@@ -9,7 +9,7 @@
 - [Visualization in Tableau](#visualization-in-tableau)
 - [Project Analysis](#project-analysis)
 - [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
-- [Recommendations for Enhancing Trade and Investment Efficiency](#recommendations-for-enhancing_trade-and-investment-efficiency)
+- [Recommendations for Enhancing Trade and Investment Efficiency](#recommendations-for-enhancing-trade-and-investment-efficiency)
 <br />
 
 ## Project Overview
