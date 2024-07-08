@@ -231,3 +231,4 @@ You can view and interact with this dashboard report [here](https://public.table
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank_You.jpg)
