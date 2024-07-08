@@ -2,8 +2,15 @@
 ![](images/International_Trade_Finance_Analysis_Photo.jpg)
 <br />
 
-
-
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visualization in Tableau](#visualization-in-tableau)
+- [Project Analysis](#project-analysis)
+- [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
+- [Recommendations for Enhancing Trade and Investment Efficiency](#recommendations_for_enhancing_trade_and_investment_eficiency)
+<br />
 
 ## Project Overview
 ### Introduction:
@@ -220,3 +227,7 @@ You can view and interact with this dashboard report [here](https://public.table
 - __Socio-Political Stability:__ Political stability and governance by reducing corruption, transparent governance and social order.
 - __Technology and Innovation:__ Invest in technology and innovation by supporting R&D and technology parks and innovation hubs.
 - __Infrastructure:__ Focus on infrastructure (transportation, communication and utilities) to reduce operational costs and improve business efficiency.
+<br />
+<br />
+
+## Thank You For Following Through!
