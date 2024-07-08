@@ -97,8 +97,8 @@ This data is for 2019, which may be the latest data published by UNDP. The datas
 
 Sql Query Screenshot                                                               |                                
 :---------------------------------------------------------------------------------:|
-![](images/SQL_Screenshot.png)    
+![](images/MySQL_Screenshot.png)    
 
-You can preview the SQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
+You can preview the SQL query file [here](International_Trade_%26%20_Finance_Analysis_Project.sql)
 <br />
 <br />
