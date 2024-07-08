@@ -69,7 +69,7 @@ This data is for 2019, which may be the latest data published by UNDP. The datas
 <br />
 
 ### Tools Used
-1. MS SQL Server
+1. MySQL
     - Was used to:
         1. Extract,
         2. Clean,
@@ -87,12 +87,13 @@ This data is for 2019, which may be the latest data published by UNDP. The datas
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
-A little data cleaning was done here because the data was almost clean as at when it was accessed from the source, i just had little work to do here before importing the data into Tableau. I did the below:
-1. Changed the data type of the fields that are of the wrong data type to the right data type.
-2. Made sure that all the data types of the fields in the 5 tables in this dataset were of the right data type.
+-- Data was majorly clean from source. I just had to do some cleaning in MySQL for everything to work fine, and they are:
+-- 1. Changed the values for the fields in all the tables that has ".." in its row with "NULL" to maintain the integrity of the numerical data
+-- 2. Changed the data type of thise fields that are of the wrong data type to the right data type.
+-- 3. Made sure that all the data types of the 5 tables in the dataset are of the right data type.
 <br />
 
-**SQL View**
+**MySQL View**
 
 Sql Query Screenshot                                                               |                                
 :---------------------------------------------------------------------------------:|
