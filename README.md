@@ -55,7 +55,6 @@ The project aims to:
 
 ### About The Dataset
 This analysis uses the UNDP’s data for the ‘Trade and Finance flows’ dimension. The data came with 5 tables which are: Exports and Imports (% of GDP), Foreign Direct Investment, Net Inflows (% of GDP), Net Official Development Assistance Received (% of GNI), Private Capital Flows (% of GDP), and Remittances, Inflows (% of GDP). The main data indicators looked at are:
-
 - __Exports and Imports (% of GDP):__ Value of goods and services a country exports and imports as a percentage of its GDP, to show trade openness and economic integration with the global market.
 - __Foreign Direct Investment, Net Inflows (% of GDP):__ Net inflows of investment to acquire a lasting interest or significant influence over a company’s management in another country, to show economic globalization and confidence in a country’s economy.
 - __Net Official Development Assistance Received (% of GNI):__ Net official aid provided by donor countries to promote economic development and welfare in recipient countries, as a percentage of Gross National Income (GNI), to show support and dependency of developing countries on foreign aid.
