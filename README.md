@@ -93,10 +93,10 @@ This data is for 2019, which may be the latest data published by UNDP. The datas
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
--- Data was majorly clean from source. I just had to do some cleaning in MySQL for everything to work fine, and they are:
--- 1. Changed the values for the fields in all the tables that has ".." in its row with "NULL" to maintain the integrity of the numerical data
--- 2. Changed the data type of thise fields that are of the wrong data type to the right data type.
--- 3. Made sure that all the data types of the 5 tables in the dataset are of the right data type.
+- Data was mostly clean from source. I had to do some cleaning in MySQL for everything to work fine, and the steps i took are:
+-  1. Changed the values for the fields in all the tables that has ".." in its row with "NULL" to maintain the integrity of the numerical data
+-  2. Changed the data type of thise fields that are of the wrong data type to the right data type.
+-  3. Made sure that all the data types of the 5 tables in the dataset are of the right data type.
 <br />
 
 **MySQL View**
