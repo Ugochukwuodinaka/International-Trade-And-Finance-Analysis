@@ -77,10 +77,8 @@ This data is for 2019, which may be the latest data published by UNDP. The datas
 ### Tools Used
 1. MySQL
     - Was used to:
-        1. Extract,
-        2. Clean,
-        3. Transform,
-        4. Load all the datasets for this analysis.
+        1. Clean
+        2. Transform all datasets for this analysis.
 
 2. Tableau (Was used to create dashboards for this analysis)
     - The following Tableau tools were incorporated:
