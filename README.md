@@ -90,7 +90,7 @@ This data is for 2019, which may be the latest data published by UNDP. The datas
         6. Buttons
 <br />
 
-### Data Cleaning, Transformation and Loading using MS SQL Server:
+### Data Cleaning, Transformation and Loading using MySQL:
 Data was mostly clean from source. I had to do some cleaning in MySQL for everything to work fine, and the steps i took are:
 - Changed the values for the fields in all the tables that has ".." in its row with "NULL" to maintain the integrity of the numerical data
 - Changed the data type of the fields that are of the wrong data type to the right data type.
